@@ -1,0 +1,18 @@
+.app {
+  padding: 30px;
+  background-color:aquamarine;
+}
+
+.todo {
+  align-items: center;
+  display: flex;
+  font-size: 18px;
+  justify-content: space-between;
+}
+.subbutton {
+  margin-top: 10px !important;
+}
+
+.mark {
+  margin-right: 5px !important;
+}
